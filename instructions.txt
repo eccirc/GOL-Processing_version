@@ -1,0 +1,9 @@
+GOL - Instructions:
+
+Toggle keys:
+
+Press 'd' to draw on the grid
+Press 'x' to create a randomised grid
+Press 's' to start the game
+Press 'r' to reset the game
+
